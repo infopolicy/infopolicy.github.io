@@ -4,6 +4,6 @@ This is the landing page of the code and data github repository for the Statisti
 
 # List of Current Repositories
 * [iqa/](https://github.com/infopolicy/iqa/) - Information Quality Act data, code, and reports
-* [dcat-us/](https://github.com/infopolicy/dcat-us/) - A clone of the DCAT 3.0 repository from the Department of the Interior
+* [dcat-us/](https://github.com/infopolicy/dcat-us/) - A fork of the DCAT 3.0 repository from the Department of the Interior
 
 
